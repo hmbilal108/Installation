@@ -1,4 +1,4 @@
-DOCKER, KUBECTL, MINIKUBE, CONNTRACK and HELM and ARGOCD (Thanks to [Uzair Ahmad Linkedin](https://www.linkedin.com/in/devops-uzair-ahmad?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKGHKUKgtQfyFkNoeCP971g%3D%3D) from Simplified Application Deployment: Mastering Helm Charts with ArgoCD Workflow)
+DOCKER, KUBECTL, MINIKUBE, CONNTRACK and HELM and ARGOCD (Thanks to [Uzair Ahmad Linkedin](https://www.linkedin.com/in/devops-uzair-ahmad?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKGHKUKgtQfyFkNoeCP971g%3D%3D) from [Simplified Application Deployment: Mastering Helm Charts with ArgoCD Workflow](https://www.linkedin.com/pulse/simplified-application-deployment-mastering-helm-charts-uzair-ahmad/?trackingId=7o3XSz3iSXKgYkq81DoGWA%3D%3D))
 
 sudo su
 ```
