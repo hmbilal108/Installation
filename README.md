@@ -1,9 +1,9 @@
 DOCKER, KUBECTL, MINIKUBE, CONNTRACK and HELM and ARGOCD (Thanks to Uzair Ahmad Linkedin from Simplified Application Deployment: Mastering Helm Charts with ArgoCD Workflow)
 
 sudo su
-
+```
 sudo apt update && apt -y install docker.io
-
+```
 
 Kubectl:
 
