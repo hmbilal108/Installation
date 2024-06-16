@@ -1,4 +1,4 @@
-DOCKER, KUBECTL, MINIKUBE, CONNTRACK and HELM AND ARGOCD (Thanks to Uzair Ahmad Linkedin from Simplified Application Deployment: Mastering Helm Charts with ArgoCD Workflow)
+DOCKER, KUBECTL, MINIKUBE, CONNTRACK and HELM and ARGOCD (Thanks to Uzair Ahmad Linkedin from Simplified Application Deployment: Mastering Helm Charts with ArgoCD Workflow)
 
 sudo apt update && apt -y install docker.io
 
@@ -12,6 +12,9 @@ kubectl version --short
 
 Minikube:
 curl -Lo minikube https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-linux-amd64 && chmod +x minikube && sudo mv minikube /usr/local/bin/
+
 apt install conntrack
+
 minikube start --vm-driver=none
+
 minikube status
