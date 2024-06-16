@@ -70,10 +70,14 @@ default use name is admin
 ```
 kubectl get secrets argocd-initial-admin-secret -n argocd -o yaml 
 ```
+
+```
 echo VFBrWVlyZ1NXc0xJTUpYYw== | base64 --decode
 ```
 
-```
+
+
+
 write application name (mongo/mongo-express)
 select project name(default)
 select sync option (autometic)
